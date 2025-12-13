@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PyBack-end
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning frontend and backend 
-- 💞️ I’m looking to collaborate on full stack projects, mostly on python and react
-- 📫 How to reach me njabuloyhangont629@gmail.com
+- 👋 Hi, I’m NjbuloT.dev
+- 👀 I’m interested in collaborating with other developer, mostly dealing with AI projects
+- 🌱 I’m currently learning CS50, Machine Learning with Python
+- 💞️ I’m looking to collaborate on full stack projects, mostly on Flask or React
+- 📫 How to reach me njabulot.dev@gmail.com
 - 😄 Pronouns: he/him
 
 
