@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NjbuloT.dev
 - 👀 I’m interested in collaborating with other developer, mostly dealing with AI projects
-- 🌱 I’m currently learning CS50, Machine Learning with Python
+- 🌱 I’m currently learning CS50, and Machine Learning with Python on Alison
 - 💞️ I’m looking to collaborate on full stack projects, mostly on Flask or React
 - 📫 How to reach me njabulot.dev@gmail.com
 - 😄 Pronouns: he/him
