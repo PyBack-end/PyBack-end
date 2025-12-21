@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Njabulo Thango (NjabuloT.dev)
+# 👋 **Hi, I’m Njabulo Thango (NjabuloT.dev)**
 
 🚀 Full-Stack Developer | Backend-Focused | Data & Systems Enthusiast  
 📍 South Africa
