@@ -23,10 +23,10 @@ A backend-driven system for collecting, storing, and analyzing location-based so
 **Tech:** FastAPI, MySQL, React  
 **Focus:** APIs, data pipelines, analytics, dashboards
 
-### 🔹 SURVEY123 – Survey Management System
-A Django backend application for creating surveys, managing users, and storing responses securely.  
-**Tech:** Django, SQLite/MySQL  
-**Focus:** Auth systems, CRUD operations, backend logic
+### 🔹 pick 10 - Edtech
+A platform that is made for schools
+**Tech:** React, Flask, MySQL  
+
 
 ---
 
