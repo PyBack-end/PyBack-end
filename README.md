@@ -27,21 +27,24 @@ A backend-driven system for collecting, storing, and analyzing location-based so
 A school-focused digital platform designed to streamline academic workflows and engagement.
 **Tech Stack:** React, Flask, MySQL
 Here are strong focus angles you can choose from (depending on what it actually does):
+
 **Option A – Academic Management System**
+
 **Focus:**
 Student & teacher role-based access control
 Assessment & grading systems
 Data modeling for academic records
 Admin dashboards
 Secure authentication
+
 **Option B – Learning Engagement Platform**
+
 **Focus:**
 Interactive quizzes & assessments
 Performance analytics
 API-driven content delivery
 Scalable session management
 User activity tracking
-Option C – Hybrid System (Stronger Positioning)
 
 
 ---
