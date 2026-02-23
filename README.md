@@ -23,9 +23,25 @@ A backend-driven system for collecting, storing, and analyzing location-based so
 **Tech:** FastAPI, MySQL, React  
 **Focus:** APIs, data pipelines, analytics, dashboards
 
-### 🔹 pick 10 - Edtech
-A platform that is made for schools
-**Tech:** React, Flask, MySQL  
+## 🔹 Pick 10 — EdTech Platform
+A school-focused digital platform designed to streamline academic workflows and engagement.
+**Tech Stack:** React, Flask, MySQL
+Here are strong focus angles you can choose from (depending on what it actually does):
+**Option A – Academic Management System**
+**Focus:**
+Student & teacher role-based access control
+Assessment & grading systems
+Data modeling for academic records
+Admin dashboards
+Secure authentication
+**Option B – Learning Engagement Platform**
+**Focus:**
+Interactive quizzes & assessments
+Performance analytics
+API-driven content delivery
+Scalable session management
+User activity tracking
+Option C – Hybrid System (Stronger Positioning)
 
 
 ---
