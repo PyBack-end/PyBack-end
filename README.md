@@ -1,7 +1,7 @@
 # 👋 **Hi, I’m Njabulo Thango (NjabuloT.dev)**
 
-🚀 Full-Stack Developer | Backend-Focused | Data & Systems Enthusiast  
-📍 South Africa
+🚀 Full-Stack Developer | Backend-Focused | Data & Systems Enthusiast | AI Engineer
+📍 South Africa -> Moving to UK soon
 
 I build scalable backend systems, APIs, and data-driven applications using Python, Django, FastAPI, MySQL, and React.  
 My focus is on **real-world systems**, not just tutorials.
@@ -9,12 +9,11 @@ My focus is on **real-world systems**, not just tutorials.
 ---
 
 ## 🛠 Tech Stack
-- **Backend:** Python, Django, FastAPI, Flask
-- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Python, Django, FastAPI, Flask, Golang
+- **Frontend:** React
 - **Databases:** MySQL, SQLite
-- **Tools:** Git, Linux, Docker (learning)
-- **Data & AI:** Pandas, NumPy, Kaggle, CS50 AI concepts
-
+- **Tools:** Git, Linux 
+  
 ---
 
 ## ⭐ Flagship Projects
