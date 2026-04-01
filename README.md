@@ -1,97 +1,177 @@
-# 👋 **Hi, I’m Njabulo Thango (NjabuloT.dev)**
+# 👋 Njabulo Thango (NjabuloT.dev)
 
-🚀 Full-Stack Developer | Backend-Focused | Data & Systems Enthusiast | AI Engineer
-📍 South Africa -> Moving to UK soon
+🚀 **Backend-Focused Full-Stack Developer**
+⚙️ APIs • Data Systems • Scalable Architectures • AI/ML Foundations
+📍 South Africa → UK (Planned Relocation)
 
-I build scalable backend systems, APIs, and data-driven applications using Python, Django, FastAPI, MySQL, and React.  
-My focus is on **real-world systems**, not just tutorials.
+---
+
+## 🧠 About Me
+
+I am a **Grade 12 student** and a **self-taught developer** specializing in **backend development**, with full-stack capabilities.
+
+I build **production-oriented systems** with a focus on **performance, scalability, and real-world applications**. My work emphasizes APIs, data systems, and backend architecture rather than tutorial-based projects.
+
+I am actively preparing for **junior developer opportunities and internships**, with a long-term goal of working in international tech environments.
 
 ---
 
 ## 🛠 Tech Stack
-- **Backend:** Python, Django, FastAPI, Flask, Golang
-- **Frontend:** React
-- **Databases:** MySQL, SQLite
-- **Tools:** Git, Linux 
-  
+
+### Backend & Systems
+
+* Python (Django, FastAPI, Flask)
+* Golang
+* REST API Development
+
+### Frontend
+
+* React
+
+### Databases
+
+* MySQL
+* SQLite
+
+### Tools & Environment
+
+* Git
+* Linux
+
 ---
 
 ## ⭐ Flagship Projects
-### 🔹 SocialMind – Data Intelligence Platform
-A backend-driven system for collecting, storing, and analyzing location-based social & news data.  
-**Tech:** FastAPI, MySQL, React  
-**Focus:** APIs, data pipelines, analytics, dashboards
 
-## 🔹 Pick 10 — EdTech Platform
-A school-focused digital platform designed to streamline academic workflows and engagement.
-**Tech Stack:** React, Flask, MySQL
-Here are strong focus angles you can choose from (depending on what it actually does):
+### 🔹 Smart Schools — IoT + Energy Intelligence System
 
-**Option A – Academic Management System**
+A smart system designed to **monitor, control, and optimize electricity usage in schools** using IoT devices and data-driven insights.
 
-**Focus:**
-Student & teacher role-based access control
-Assessment & grading systems
-Data modeling for academic records
-Admin dashboards
-Secure authentication
+**Tech:** Python (FastAPI), MySQL, IoT Devices (Smart Breakers), React
 
-**Option B – Learning Engagement Platform**
+**Core Capabilities:**
 
-**Focus:**
-Interactive quizzes & assessments
-Performance analytics
-API-driven content delivery
-Scalable session management
-User activity tracking
+* Remote control of electrical systems (computers, lights)
+* Real-time energy usage monitoring
+* Data collection from smart circuits (e.g., Tuya breakers)
+* ML-based analysis of energy usage patterns
+* Integration with solar-powered systems
 
+**System Focus:**
+
+* Backend API design for IoT communication
+* Data pipelines for energy analytics
+* ML model integration for usage prediction
+* System-level architecture (hardware + software)
+
+---
+
+### 🔹 Pick 10 — EdTech Platform
+
+A school-focused platform designed to streamline academic workflows and student decision-making.
+
+**Tech:** React, Flask, MySQL
+
+**Core Features:**
+
+* Subject selection system (Grade 9 → Grade 10)
+* Role-based workflows (students & schools)
+* Structured academic data storage
+* API-driven frontend
+
+**Focus Areas:**
+
+* Backend architecture
+* Data modeling
+* Scalable API handling
 
 ---
 
 ## 🧩 Other Projects
 
 ### 🔹 Secure Auth API
-Authentication and authorization system with login, signup, and protected routes.  
-**Tech:** Python, Django/FastAPI  
-**Focus:** Security, sessions, JWT concepts
 
-### 🔹 Mini Data Server (Hardware + Software)
-A mini server project powered by a custom power supply, designed to store and manage large datasets.  
-**Tech:** Linux, Python, MySQL  
-**Focus:** System design, servers, hardware + software integration
+Authentication system with secure login, signup, and protected routes.
 
-### 🔹 React Admin Dashboard
-Frontend dashboard for visualizing backend data using tables and charts.  
-**Tech:** React, CSS  
-**Focus:** UI for backend systems
+**Focus:**
 
-### 🔹 Python Utilities & Scripts
-Collection of Python tools including calculators, automation scripts, and logic-based programs.  
-**Tech:** Python  
-**Focus:** Problem solving, clean logic
-
-### 🔹 Data & ML Practice Projects
-Hands-on learning projects from CS50, Google, and Kaggle.  
-**Focus:** Data analysis, ML foundations, experimentation
+* Authentication flows
+* JWT concepts
+* Session handling & security
 
 ---
 
-## 📈 What I’m Currently Working On
-- Building production-ready APIs
-- Improving database performance & structure
-- System-level projects (servers, data pipelines)
-- Preparing for internships & junior developer roles
-- Growing towards AI/ML-powered systems
+### 🔹 Mini Data Server (Hardware + Software)
+
+Custom-built server for storing and managing large datasets.
+
+**Tech:** Linux, Python, MySQL
+
+**Focus:**
+
+* Server architecture
+* Data storage systems
+* Hardware + software integration
+
+---
+
+### 🔹 React Admin Dashboard
+
+Frontend dashboard for visualizing backend data.
+
+**Focus:**
+
+* Data visualization
+* API integration
+* Clean UI structure
+
+---
+
+### 🔹 Python Utilities & Scripts
+
+Collection of automation tools and logic-based programs.
+
+---
+
+### 🔹 AI & CS50 Practice Projects
+
+Projects based on CS50 and hands-on AI learning.
+
+**Focus:**
+
+* AI fundamentals
+* Problem solving & algorithms
+* Practical system thinking
+* Experimental AI features integration
+
+---
+
+## 📈 Current Focus
+
+* Building production-ready APIs
+* Improving database performance
+* Designing system-level projects
+* Integrating ML into applications
+* Preparing for internships & junior roles
 
 ---
 
 ## 🎯 Career Goals
-- Become a strong full-stack / backend engineer
-- Build scalable data-driven platforms
-- Contribute to open-source
-- Prepare for international (UK/EU) tech opportunities
+
+* Become a strong backend / full-stack engineer
+* Build scalable data-driven platforms
+* Contribute to open-source
+* Work in international tech environments (UK/EU)
 
 ---
 
 ## 📫 Contact
-- 📧 Email: njabulot.dev@gmail.com
+
+📧 [njabulot.dev@gmail.com](mailto:njabulot.dev@gmail.com)
+
+---
+
+## ⚡ Notes
+
+* Focused on real-world systems over tutorials
+* Strong interest in backend architecture & data systems
+* Actively building and improving production-level projects
