@@ -28,11 +28,6 @@ I am actively preparing for **junior developer opportunities and internships**, 
 
 * React
 
-### Databases
-
-* MySQL
-* SQLite
-
 ### Tools & Environment
 
 * Git
