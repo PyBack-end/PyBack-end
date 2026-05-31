@@ -162,9 +162,6 @@ Projects based on CS50 and hands-on AI learning.
 ## 📫 Contact
 
 📧 [njabulot.dev@gmail.com](mailto:njabulot.dev@gmail.com)
-
-Partner in crime: https://github.com/cassomthethwa-lang
-
 ---
 
 ## ⚡ Notes
