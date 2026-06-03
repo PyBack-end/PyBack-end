@@ -1,171 +1,160 @@
-# 👋 Njabulo Thango (NjabuloT.dev)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a102d,100:7c3aed&text=Njabulo%20Thango&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
+</p>
 
-🚀 **Backend-Focused Full-Stack Developer**
-⚙️ APIs • Data Systems • Scalable Architectures • AI/ML Foundations
-📍 South Africa → UK (Planned Relocation)
+<h1 align="center">Backend Systems Engineer</h1>
 
----
+<p align="center">
+Designing APIs, data systems, and scalable software.
+</p>
 
-## 🧠 About Me
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PyBack-end&label=Profile%20Views&color=7c3aed&style=flat" />
+</p>
 
-I am a **Grade 12 student** and a **self-taught developer** specializing in **backend development**, with full-stack capabilities.
-
-I build **production-oriented systems** with a focus on **performance, scalability, and real-world applications**. My work emphasizes APIs, data systems, and backend architecture rather than tutorial-based projects.
-
-I am actively preparing for **junior developer opportunities and internships**, with a long-term goal of working in international tech environments.
-
----
-
-## 🛠 Tech Stack
-
-### Backend & Systems
-
-* Python (Django, FastAPI, Flask)
-* Golang
-* REST API Development
-
-### Frontend
-
-* React
-
-### Tools & Environment
-
-* Git
-* Linux
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Backend+Systems+Engineer;Python+%7C+Go+%7C+JavaScript;Distributed+Systems+and+APIs;Building+Production-Ready+Software"/>
+</p>
 
 ---
 
-## ⭐ Flagship Projects
+## About
 
-### 🔹 Smart Schools — IoT + Energy Intelligence System
-
-A smart system designed to **monitor, control, and optimize electricity usage in schools** using IoT devices and data-driven insights.
-
-**Tech:** Python (FastAPI), MySQL, IoT Devices (Smart Breakers), React
-
-**Core Capabilities:**
-
-* Remote control of electrical systems (computers, lights)
-* Real-time energy usage monitoring
-* Data collection from smart circuits (e.g., Tuya breakers)
-* ML-based analysis of energy usage patterns
-* Integration with solar-powered systems
-
-**System Focus:**
-
-* Backend API design for IoT communication
-* Data pipelines for energy analytics
-* ML model integration for usage prediction
-* System-level architecture (hardware + software)
+* Self-taught backend-focused developer
+* Building scalable APIs and data-driven applications
+* Interested in distributed systems, AI, cloud technologies, and IoT
+* Open to junior developer and internship opportunities
+* Based in South Africa
+* 247 contributions in the last year
 
 ---
 
-### 🔹 Pick 10 — EdTech Platform
+## Technology
 
-A school-focused platform designed to streamline academic workflows and student decision-making.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,go,javascript,react,c,fastapi,flask,django,mysql,linux,git,github,vscode"/>
+</p>
 
-**Tech:** React, Flask, MySQL
+---
 
-**Core Features:**
+## GitHub Analytics
 
-* Subject selection system (Grade 9 → Grade 10)
-* Role-based workflows (students & schools)
-* Structured academic data storage
-* API-driven frontend
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PyBack-end&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-**Focus Areas:**
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyBack-end&layout=compact&theme=midnight-purple&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PyBack-end&theme=midnight-purple&hide_border=true"/>
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PyBack-end&theme=react-dark&bg_color=0D1117&hide_border=true"/>
+</p>
+
+---
+
+## Featured Projects
+
+### Smart Schools
+
+Energy intelligence platform designed to monitor, control, and optimize electricity consumption in schools using IoT infrastructure and machine learning.
+
+**Stack**
+
+FastAPI • React • MySQL • IoT • Machine Learning
+
+**Highlights**
+
+* Real-time energy monitoring
+* Smart breaker integration
+* Remote electrical control
+* Energy usage prediction
+* Solar system compatibility
+
+---
+
+### Pick 10
+
+Educational platform built to simplify academic workflows and subject selection processes.
+
+**Stack**
+
+Flask • React • MySQL
+
+**Highlights**
+
+* Subject selection workflows
+* School management tools
+* API-driven architecture
+* Structured academic data systems
+
+---
+
+### Secure Auth API
+
+Authentication and authorization service focused on secure user management, JWT workflows, and protected routes.
+
+**Stack**
+
+Python • FastAPI • JWT
+
+---
+
+### Mini Data Server
+
+Custom-built Linux server for dataset storage, management, and experimentation.
+
+**Stack**
+
+Linux • Python • MySQL
+
+---
+
+## Current Focus
 
 * Backend architecture
-* Data modeling
-* Scalable API handling
+* High-performance APIs
+* Database optimization
+* Machine learning integration
+* Distributed systems
+* Open-source contributions
 
 ---
 
-## 🧩 Other Projects
+## Open Source
 
-### 🔹 Secure Auth API
+Interested in collaborating on projects involving:
 
-Authentication system with secure login, signup, and protected routes.
-
-**Focus:**
-
-* Authentication flows
-* JWT concepts
-* Session handling & security
-
----
-
-### 🔹 Mini Data Server (Hardware + Software)
-
-Custom-built server for storing and managing large datasets.
-
-**Tech:** Linux, Python, MySQL
-
-**Focus:**
-
-* Server architecture
-* Data storage systems
-* Hardware + software integration
+* Python
+* Golang
+* Backend Infrastructure
+* Developer Tools
+* Data Engineering
+* AI Applications
 
 ---
 
-### 🔹 React Admin Dashboard
+## Connect
 
-Frontend dashboard for visualizing backend data.
+Email: [njabulot.dev@gmail.com](mailto:njabulot.dev@gmail.com)
 
-**Focus:**
-
-* Data visualization
-* API integration
-* Clean UI structure
+LinkedIn: https://www.linkedin.com/in/njabulo-thango
 
 ---
 
-### 🔹 Python Utilities & Scripts
+<p align="center">
+Building systems, not just projects.
+</p>
 
-Collection of automation tools and logic-based programs.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,100:1a102d"/>
+</p>
 
----
 
-### 🔹 AI & CS50 Practice Projects
 
-Projects based on CS50 and hands-on AI learning.
-
-**Focus:**
-
-* AI fundamentals
-* Problem solving & algorithms
-* Practical system thinking
-* Experimental AI features integration
-
----
-
-## 📈 Current Focus
-
-* Building production-ready APIs
-* Improving database performance
-* Designing system-level projects
-* Integrating ML into applications
-* Preparing for internships & junior roles
-
----
-
-## 🎯 Career Goals
-
-* Become a strong backend / full-stack engineer
-* Build scalable data-driven platforms
-* Contribute to open-source
-* Work in international tech environments (UK/EU)
-
----
-
-## 📫 Contact
-
-📧 [njabulot.dev@gmail.com](mailto:njabulot.dev@gmail.com)
----
-
-## ⚡ Notes
-
-* Focused on real-world systems over tutorials
-* Strong interest in backend architecture & data systems
-* Actively building and improving production-level projects
