@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a102d,100:7c3aed&text=Njabulo%20Thango&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Backend Systems Engineer</h1>
+<h1 align="center">Backend Engineer</h1>
 
 <p align="center">
 Designing APIs, data systems, and scalable software.
@@ -32,18 +32,14 @@ Designing APIs, data systems, and scalable software.
 ## Technology
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,go,javascript,react,c,fastapi,flask,django,mysql,linux,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,go,javascript,react,c,fastapi,flask,django,mysql,linux,git,github,vscode&perline=6" />
 </p>
 
 ---
 
 ## GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PyBack-end&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyBack-end&layout=compact&theme=midnight-purple&hide_border=true"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=PyBack-end&theme=midnight-purple&hide_border=true"/>
@@ -55,6 +51,14 @@ Designing APIs, data systems, and scalable software.
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PyBack-end&theme=react-dark&bg_color=0D1117&hide_border=true"/>
+</p>
+
+---
+
+## Development Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PyBack-end&theme=github_dark" />
 </p>
 
 ---
