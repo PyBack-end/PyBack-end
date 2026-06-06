@@ -25,7 +25,7 @@ Designing APIs, data systems, and scalable software.
 * Interested in distributed systems, AI, cloud technologies, and IoT
 * Open to junior developer and internship opportunities
 * Based in South Africa
-* 247 contributions in the last year
+* 250+ contributions in the last year
 
 ---
 
