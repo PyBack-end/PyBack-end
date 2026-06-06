@@ -13,7 +13,7 @@ Designing APIs, data systems, and scalable software.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Backend+Systems+Engineer;Python+%7C+Go+%7C+JavaScript;Distributed+Systems+and+APIs;Building+Production-Ready+Software"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Backend+Systems+Engineer;Python+%7C+Go+%7C+JavaScript+%7C+C;Distributed+Systems+and+APIs;Building+Production-Ready+Software"/>
 </p>
 
 ---
