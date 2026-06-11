@@ -65,6 +65,8 @@ Designing APIs, data systems, and scalable software.
 
 ## Featured Projects
 
+## Featured Projects
+
 ### Smart Schools
 
 Energy intelligence platform designed to monitor, control, and optimize electricity consumption in schools using IoT infrastructure and machine learning.
@@ -83,7 +85,7 @@ FastAPI • React • MySQL • IoT • Machine Learning
 
 ---
 
-### Pick 10
+### Pick10
 
 Educational platform built to simplify academic workflows and subject selection processes.
 
@@ -97,6 +99,26 @@ Flask • React • MySQL
 * School management tools
 * API-driven architecture
 * Structured academic data systems
+
+---
+
+### Enterprise Document Management Platform
+
+Secure internal document management system designed for company-level file sharing, access control, and collaboration.
+
+**Stack**
+
+Next.js • TypeScript • Supabase • PostgreSQL • Supabase Storage • Vercel
+
+**Highlights**
+
+* Role-based authentication (Admin, Manager, Employee)
+* Secure file upload and download system
+* Department-based document organization
+* Activity logging and audit trails
+* Permission-controlled sharing system
+* Scalable cloud storage integration
+* Production-ready serverless architecture
 
 ---
 
