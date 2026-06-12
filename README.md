@@ -102,23 +102,37 @@ Flask • React • MySQL
 
 ---
 
-### Enterprise Document Management Platform
+### Jozieast Properties
 
-Secure internal document management system designed for company-level file sharing, access control, and collaboration.
+Enterprise Property Operations & Maintenance Management System designed to replace spreadsheet-based workflows with automated maintenance tracking, financial reporting, operational analytics, and role-based administration.
 
 **Stack**
 
-Next.js • TypeScript • Supabase • PostgreSQL • Supabase Storage • Vercel
+Next.js • TypeScript • PostgreSQL • Prisma ORM • Auth.js • Tailwind CSS • Recharts • Vercel
 
 **Highlights**
 
-* Role-based authentication (Admin, Manager, Employee)
-* Secure file upload and download system
-* Department-based document organization
-* Activity logging and audit trails
-* Permission-controlled sharing system
-* Scalable cloud storage integration
-* Production-ready serverless architecture
+* Role-based access control (Admin & Staff)
+* Property and location management
+* Maintenance workflow automation
+* Active, overdue, and completed task tracking
+* Financial reporting and expenditure analytics
+* Bulk maintenance record entry
+* Audit logging and activity monitoring
+* Operational dashboards and KPI reporting
+* Mobile-responsive enterprise interface
+* Production-ready cloud deployment
+
+**Key Engineering Concepts**
+
+* Authentication & Authorization
+* RBAC (Role-Based Access Control)
+* Relational Database Design
+* Financial Data Aggregation
+* Workflow Automation
+* Audit Trail Systems
+* Analytics Dashboards
+* Enterprise Application Architecture
 
 ---
 
