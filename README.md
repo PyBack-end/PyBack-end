@@ -65,7 +65,6 @@ Designing APIs, data systems, and scalable software.
 
 ## Featured Projects
 
-## Featured Projects
 
 ### Smart Schools
 
