@@ -157,12 +157,14 @@ Linux • Python • MySQL
 
 ## Current Focus
 
-* Backend architecture
-* High-performance APIs
-* Database optimization
-* Machine learning integration
-* Distributed systems
-* Open-source contributions
+* Building AI-powered backend systems
+* Deploying and orchestrating Ollama models locally
+* Developing AI agents and multi-agent workflows
+* Designing scalable APIs and distributed services
+* Database engineering and performance optimization
+* Linux automation and infrastructure tooling
+* Machine learning integration in production applications
+* Contributing to open-source developer ecosystems
 
 ---
 
