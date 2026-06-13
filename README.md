@@ -172,12 +172,14 @@ Linux • Python • MySQL
 
 Interested in collaborating on projects involving:
 
-* Python
-* Golang
-* Backend Infrastructure
-* Developer Tools
-* Data Engineering
-* AI Applications
+* AI infrastructure and self-hosted AI systems
+* Ollama, local LLMs, and model orchestration
+* Multi-agent systems and autonomous workflows
+* Backend engineering with Python and Go
+* High-performance APIs and microservices
+* Developer tools and productivity platforms
+* Distributed systems and cloud-native technologies
+* Open-source software that empowers developers
 
 ---
 
