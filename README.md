@@ -159,40 +159,48 @@ Flask • React • MySQL
 * API-driven architecture
 * Structured academic data systems
 
+
 ---
 
-### Jozieast Properties
+### FlowOps
 
-Enterprise Property Operations & Maintenance Management System designed to replace spreadsheet-based workflows with automated maintenance tracking, financial reporting, operational analytics, and role-based administration.
+**Intelligent Operations Platform for Multi-Industry Enterprise Management**
+
+FlowOps is a production-ready, multi-tenant SaaS platform that transforms manual spreadsheet operations into automated, intelligent workflows. Built for property management, healthcare, retail, logistics, and hospitality industries with adaptive UI and industry-specific modules.
 
 **Stack**
 
-Next.js • TypeScript • PostgreSQL • Prisma ORM • Auth.js • Tailwind CSS • Recharts • Vercel
+Next.js 14 • TypeScript • PostgreSQL • Prisma ORM • NextAuth.js • Tailwind CSS • Recharts • Vercel • Prisma Postgres
 
 **Highlights**
 
-* Role-based access control (Admin & Staff)
-* Property and location management
-* Maintenance workflow automation
-* Active, overdue, and completed task tracking
-* Financial reporting and expenditure analytics
-* Bulk maintenance record entry
-* Audit logging and activity monitoring
-* Operational dashboards and KPI reporting
-* Mobile-responsive enterprise interface
-* Production-ready cloud deployment
+- Multi-industry support (Property, Healthcare, Retail, Hospitality, Logistics)
+- Role-based access control (Admin & Staff with granular permissions)
+- Organization and property/location management
+- Intelligent maintenance workflow automation
+- Real-time task tracking (Active, Overdue, Completed)
+- Financial analytics and expenditure reporting
+- Bulk record entry with spreadsheet-style interface
+- Complete audit logging with activity monitoring
+- Interactive dashboards with KPI visualizations
+- Mobile-responsive enterprise-grade UI
+- Production-ready cloud deployment on Vercel
+- Persistent PostgreSQL database with Prisma ORM
 
 **Key Engineering Concepts**
 
-* Authentication & Authorization
-* RBAC (Role-Based Access Control)
-* Relational Database Design
-* Financial Data Aggregation
-* Workflow Automation
-* Audit Trail Systems
-* Analytics Dashboards
-* Enterprise Application Architecture
-
+- Multi-tenant SaaS Architecture
+- Authentication & Authorization (JWT sessions)
+- RBAC (Role-Based Access Control)
+- Relational Database Design & Optimization
+- Financial Data Aggregation & Reporting
+- Workflow Automation Systems
+- Audit Trail & Compliance Logging
+- Analytics Dashboard Engineering
+- Serverless Deployment Architecture
+- Mobile-First Responsive Design
+- Type-Safe Full-Stack Development
+  
 ---
 
 ### Secure Auth API
