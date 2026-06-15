@@ -32,7 +32,67 @@ Designing APIs, data systems, and scalable software.
 ## Technology
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,go,javascript,react,c,fastapi,flask,django,mysql,linux,git,github,vscode&perline=6" />
+  <a href="#" title="Python">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="#" title="Go">
+    <img src="https://skillicons.dev/icons?i=go" />
+  </a>
+  <a href="#" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>
+  <a href="#" title="React">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="#" title="C">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="#" title="FastAPI">
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+  </a>
+  
+  <br>
+  <a href="#" title="Flask">
+    <img src="https://skillicons.dev/icons?i=flask" />
+  </a>
+  <a href="#" title="Django">
+    <img src="https://skillicons.dev/icons?i=django" />
+  </a>
+  <a href="#" title="MySQL">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="#" title="PostgreSQL">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+  <a href="#" title="Redis">
+    <img src="https://skillicons.dev/icons?i=redis" />
+  </a>
+  <a href="#" title="Docker">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+  <br>
+  <a href="#" title="Nginx">
+    <img src="https://skillicons.dev/icons?i=nginx" />
+  </a>
+  <a href="#" title="Linux">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+  <a href="#" title="Ubuntu">
+    <img src="https://skillicons.dev/icons?i=ubuntu" />
+  </a>
+  <a href="#" title="Cloudflare">
+    <img src="https://skillicons.dev/icons?i=cloudflare" />
+  </a>
+  <a href="#" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="#" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <br>
+  <a href="#" title="VS Code">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
 </p>
 
 ---
