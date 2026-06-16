@@ -126,25 +126,6 @@ Designing APIs, data systems, and scalable software.
 
 ## Featured Projects
 
-
-### Smart Schools
-
-Energy intelligence platform designed to monitor, control, and optimize electricity consumption in schools using IoT infrastructure and machine learning.
-
-**Stack**
-
-FastAPI • React • MySQL • IoT • Machine Learning
-
-**Highlights**
-
-* Real-time energy monitoring
-* Smart breaker integration
-* Remote electrical control
-* Energy usage prediction
-* Solar system compatibility
-
----
-
 ### Pick10
 
 Educational platform built to simplify academic workflows and subject selection processes.
