@@ -95,11 +95,12 @@ Designing APIs, data systems, and scalable software.
   </a>
 </p>
 
----
-
 ## GitHub Analytics
 
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PyBack-end&theme=dark&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyBack-end&layout=compact&theme=dark" />
+</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=PyBack-end&theme=midnight-purple&hide_border=true"/>
