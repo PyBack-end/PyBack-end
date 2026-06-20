@@ -99,7 +99,7 @@ Designing APIs, data systems, and scalable software.
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PyBack-end&theme=dark&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyBack-end&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyBack-end&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5" />
 </p>
 
 <p align="center">
