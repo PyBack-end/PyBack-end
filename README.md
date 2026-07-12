@@ -41,6 +41,9 @@ Designing APIs, data systems, and scalable software.
   <a href="#" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=javascript" />
   </a>
+  <a href="#" title="TypeScript">
+    <img src="https://skillicons.dev/icons?i=typescript" />
+  </a>
   <a href="#" title="React">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
