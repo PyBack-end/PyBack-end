@@ -20,12 +20,7 @@ Designing APIs, data systems, and scalable software.
 
 ## About
 
-* Self-taught backend-focused developer
-* Building scalable APIs and data-driven applications
-* Interested in distributed systems, AI, cloud technologies, and IoT
-* Open to junior developer and internship opportunities
-* Based in South Africa, but wanna make it international 
-* 500+ contributions
+Backend-focused software developer building systems, APIs, and AI-powered products. Self-taught from South Africa, working primarily with Python, Go, TypeScript, SQL, and modern AI technologies. Currently building an ecosystem spanning education, business automation, and operations while studying distributed systems, databases, Linux, cloud infrastructure, and AI.
 
 ---
 
