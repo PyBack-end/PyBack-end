@@ -113,12 +113,6 @@ Backend-focused software developer building systems, APIs, and AI-powered produc
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3"/>
-</p>
-
-## Development Summary
-
-<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PyBack-end&theme=github_dark" />
 </p>
 
