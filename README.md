@@ -10,7 +10,7 @@ Designing APIs, data systems, and scalable software.
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=PyBack-end&label=Profile%20Views&color=7c3aed&style=flat" />
-</p>
+</p> 
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Backend+Systems+Engineer;Python+%7C+Go+%7C+JavaScript+%7C+C;Distributed+Systems+and+APIs;Building+Production-Ready+Software"/>
