@@ -214,7 +214,7 @@ Engineering Concepts
 
 * API-first modular architecture
 
-### Void Nexus
+### VOID 
 
 AI Business Acquisition & Website Generation Engine
 
@@ -240,41 +240,6 @@ Pipeline
 
 * FlowOps integration
 
-### LearnStack
-
-AI Education & Career Development Platform
-
-LearnStack guides learners from subject selection to their first job through AI tutoring, OCR, flashcards, quizzes, curriculum-aware learning, resumes, portfolios, and career guidance.
-
-Stack
-
-`Next.js` • `Go` • `Python` • `MySQL` • `Redis` • `AI/RAG`
-
-Highlights
-
-* AI tutoring
-
-* OCR & note digitization
-
-* Flashcards & quizzes
-
-* Mind maps
-
-* Career guidance
-
-* Resume & portfolio builder
-
-* Gamified XP & Stack companion
-
-### VerseVision
-
-Real-Time Sermon Speech-to-Text Platform
-
-A real-time Bible reference detection system that listens to sermons, identifies scripture, and displays passages and visuals instantly.
-
-Stack
-
-`FastAPI` • `Python` • `WebSockets` • `MySQL` • `Faster-Whisper`
 
 ### Current Focus
 
