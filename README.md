@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a102d,100:7c3aed&text=Njabulo%20Thango&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 </p>
 
+
 <h1 align="center">Backend Engineer</h1>
 
 <p align="center">
