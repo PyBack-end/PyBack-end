@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 405" width="900" height="405" role="img" aria-label="Void Nexus feeds clients into FlowOps">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#c084fc"/>
+    </marker>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#150a2e"/>
+    </linearGradient>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    text { font-family: "JetBrains Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace; }
+    .group { fill: none; stroke: #7c3aed; stroke-width: 1.5; stroke-dasharray: 2 6; opacity: .8; }
+    .gtitle { fill: #a855f7; font-size: 12px; font-weight: 700; letter-spacing: 3px; }
+    .node { fill: #1a102d; stroke: #a855f7; stroke-width: 1.5; }
+    .hero { fill: #3b1a7a; stroke: #c084fc; stroke-width: 2; }
+    .label { fill: #f3e8ff; font-size: 12px; text-anchor: middle; dominant-baseline: central; }
+    .small { fill: #e9d5ff; font-size: 12px; text-anchor: middle; dominant-baseline: central; }
+    .note { fill: #a78bfa; font-size: 11px; text-anchor: middle; }
+    .flow { fill: none; stroke: url(#hot); stroke-width: 2; stroke-dasharray: 6 6; animation: march 1.2s linear infinite; }
+    .main { stroke-width: 2.5; animation-duration: .8s; }
+    .pulse { animation: pulse 2.8s ease-in-out infinite; }
+    @keyframes march { to { stroke-dashoffset: -24; } }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .55; } }
+  </style>
+
+  <rect width="900" height="405" rx="16" fill="url(#bg)"/>
+
+  <!-- VOID NEXUS -->
+  <rect class="group" x="20" y="20" width="860" height="130" rx="12"/>
+  <text class="gtitle" x="40" y="44">VOID NEXUS</text>
+
+  <rect class="node" x="40" y="70" width="170" height="60" rx="10"/>
+  <text class="label" x="125" y="100">Business Discovery</text>
+  <rect class="node" x="255" y="70" width="170" height="60" rx="10"/>
+  <text class="label" x="340" y="100">Lead Intelligence</text>
+  <rect class="node" x="470" y="70" width="170" height="60" rx="10"/>
+  <text class="label" x="555" y="100">AI Website Generation</text>
+  <rect class="node pulse" x="685" y="70" width="170" height="60" rx="10"/>
+  <text class="label" x="770" y="100">Client Acquisition</text>
+
+  <path class="flow" d="M210 100 H253" marker-end="url(#arrow)"/>
+  <path class="flow" d="M425 100 H468" marker-end="url(#arrow)"/>
+  <path class="flow" d="M640 100 H683" marker-end="url(#arrow)"/>
+
+  <!-- hand-off into FlowOps -->
+  <path class="flow main" d="M770 130 V178 H125 V253" marker-end="url(#arrow)"/>
+  <text class="note" x="450" y="170">becomes a customer</text>
+
+  <!-- FLOWOPS -->
+  <rect class="group" x="20" y="200" width="860" height="185" rx="12"/>
+  <text class="gtitle" x="40" y="224">FLOWOPS</text>
+
+  <rect class="hero" x="40" y="255" width="170" height="60" rx="10"/>
+  <text class="label" x="125" y="285">Organization Workspace</text>
+
+  <rect class="node" x="290" y="232" width="150" height="38" rx="9"/>
+  <text class="small" x="365" y="251">Properties</text>
+  <rect class="node" x="290" y="286" width="150" height="38" rx="9"/>
+  <text class="small" x="365" y="305">Staff</text>
+  <rect class="node" x="290" y="340" width="150" height="38" rx="9"/>
+  <text class="small" x="365" y="359">Finance</text>
+
+  <path class="flow" d="M210 285 C250 285 250 251 288 251" marker-end="url(#arrow)"/>
+  <path class="flow" d="M210 285 C250 285 250 305 288 305" marker-end="url(#arrow)"/>
+  <path class="flow" d="M210 285 C250 285 250 359 288 359" marker-end="url(#arrow)"/>
+
+  <rect class="hero pulse" x="540" y="285" width="220" height="60" rx="10"/>
+  <text class="label" x="650" y="315">Tasks • Documents • AI</text>
+
+  <path class="flow" d="M440 251 C490 251 490 315 538 315" marker-end="url(#arrow)"/>
+  <path class="flow" d="M440 305 H538" marker-end="url(#arrow)"/>
+  <path class="flow" d="M440 359 C490 359 490 325 538 325" marker-end="url(#arrow)"/>
+</svg>
