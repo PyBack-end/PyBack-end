@@ -150,11 +150,13 @@ Discovers businesses without websites, generates AI-powered website previews, sc
 ### Contribution Snake
 
 <p align="center">
+  <a href="https://github.com/PyBack-end" title="View my contributions">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PyBack-end/PyBack-end/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PyBack-end/PyBack-end/output/github-snake.svg"/>
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/PyBack-end/PyBack-end/output/github-snake-dark.svg"/>
   </picture>
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3" width="100%" alt=""/>
